@@ -2,7 +2,7 @@
 Meetup  Request Topics / Ask for solutions
 
 Your suggestions could be something like
- - "How do i build simple blog app?"
+ - "How do I build simple blog app?"
  - "How can I user Laravel horizion?"
  - "How can I use Laravel with vue?"
 
